@@ -7,8 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  puts video_games = ["Mega Man", "Halo", "Super Mario", "Uncharted"]
-  video_games << "arrays!"
+  array = 
 end
 
 def add_element_to_start_of_array(array, element)
